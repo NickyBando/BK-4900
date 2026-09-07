@@ -1,0 +1,16 @@
+# Compiled/generated folders — these regenerate automatically, never commit them
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Visual Studio / Rider / build tool clutter
+.vs/
+.idea/
+.vsconfig
+*.sln
+*.slnx
+
+# OS junk files
+.DS_Store
+Thumbs.db
